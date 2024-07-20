@@ -1,0 +1,3 @@
+To start the application using in development env
+npm start --dev
+
